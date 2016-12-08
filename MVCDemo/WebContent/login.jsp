@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-http://www.thejavageek.com/2013/08/11/mvc-architecture-with-servlets-and-jsp/
+<!--  http://www.thejavageek.com/2013/08/11/mvc-architecture-with-servlets-and-jsp/ -->
 	<form action="LoginController" method="post">
 		Enter username : <input type="text" name="username"> <BR>
 		Enter password : <input type="password" name="password"> <BR>

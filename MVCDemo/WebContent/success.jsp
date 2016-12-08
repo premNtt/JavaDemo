@@ -8,6 +8,6 @@
 <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
 </head>
 <body>
-	Welcome ${requestScope['user'].username}. 
+	Welcome ${requestScope['lbl_user'].username}. 
 </body>
 </html>
