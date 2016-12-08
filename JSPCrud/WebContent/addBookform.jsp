@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JSP CRUD Example</title>
+<title>Add Book from</title>
 </head>
 <body>
-<!-- http://www.javatpoint.com/crud-in-jsp -->
-<h1>JSP CRUD Example</h1>
-<a href="adduserform.jsp">Add User</a>
-<a href="viewusers.jsp">View User</a>
-<br>
-<a href="addBookform.jsp">Add Book Details</a>
-<a href="viewBook.jsp">view Book Details</a>
+<jsp:include page="bookform.html"></jsp:include>
 </body>
 </html>

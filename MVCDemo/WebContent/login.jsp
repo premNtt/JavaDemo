@@ -4,15 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JSP CRUD Example</title>
+<title>Insert title here</title>
 </head>
 <body>
-<!-- http://www.javatpoint.com/crud-in-jsp -->
-<h1>JSP CRUD Example</h1>
-<a href="adduserform.jsp">Add User</a>
-<a href="viewusers.jsp">View User</a>
-<br>
-<a href="addBookform.jsp">Add Book Details</a>
-<a href="viewBook.jsp">view Book Details</a>
+http://www.thejavageek.com/2013/08/11/mvc-architecture-with-servlets-and-jsp/
+	<form action="LoginController" method="post">
+		Enter username : <input type="text" name="username"> <BR>
+		Enter password : <input type="password" name="password"> <BR>
+		<input type="submit" />
+	</form>
 </body>
 </html>
